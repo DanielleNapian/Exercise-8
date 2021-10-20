@@ -1,4 +1,4 @@
-# Exercise-8
+# Lecture/Exercise-8
 //SWITCH MONTHS
 
     #include<stdio.h> 
